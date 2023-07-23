@@ -10,4 +10,4 @@
 2. Navigate to the project directory: cd JobSearch
 3. Install dependencies: `npm install`
 4. Set up environment variable: create a `.env` file in the root directory
-5. Contents of .env: 
+5. Contents of .env: ``RAPID_API_KEY=XXXXXXXXXXXXXXXXXXX``
