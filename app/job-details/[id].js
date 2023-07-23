@@ -26,7 +26,6 @@ const JobDetails = () => {
       [],
     )
     
-
     const displayTabContent = () => {
         switch (activeTab) {
             case "About":
