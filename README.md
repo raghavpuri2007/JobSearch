@@ -8,11 +8,12 @@
 
 ## 📖 Features
 * Welcome Screen showcasing Popular Jobs and Nearby Jobs
-* Search for Jobs functionality
+* Search for Jobs
+* Filter by Job Length
 * Job Details Screen listing qualifcations, responsibilities, and about-the-job description
-* Apply for Job Hyperlink
+* Apply for Job
  
-## 📱How to run this app?
+## 📱 How to run this app?
 1. Clone this repository: git clone https://github.com/raghavpuri2007/JobSearch.git
 2. Navigate to the project directory: cd JobSearch
 3. Install dependencies: `npm install`
@@ -20,6 +21,13 @@
 5. Content of .env: ``RAPID_API_KEY=XXX``
 6. To setup API go to [Rapid API Website](https://rapidapi.com/hub) and create an account
 7. Enable [JSearch API](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) and replace RAPID_API_KEY with your api key
-8. Finally, you can run this app with `npm start`
+8. Finally, you can run this app with `npm start`. [More Info on How To run Expo Apps]{https://www.reactnative.dev/docs/environment-setup}
 
+## ⚙️ Technologies
+* React Native
+* React
+* RapidAPI
+* Expo Go
+* Visual Studio Code
 
+📝 Published on Expo: [Expo Preview]{https://expo.dev/@raghav2007/JobSearch?serviceType=classic&distribution=expo-go}
