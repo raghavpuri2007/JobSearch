@@ -21,7 +21,7 @@
 5. Content of .env: ``RAPID_API_KEY=XXX``
 6. To setup API go to [Rapid API Website](https://rapidapi.com/hub) and create an account
 7. Enable [JSearch API](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) and replace RAPID_API_KEY with your api key
-8. Finally, you can run this app with `npm start`. More Info on [How To Run Expo Apps](https://www.reactnative.dev/docs/environment-setup)
+8. Finally, you can run this app with `npm start` | More Info on [How To Run Expo Apps](https://www.reactnative.dev/docs/environment-setup)
 
 ## ⚙️ Technologies
 * React Native
