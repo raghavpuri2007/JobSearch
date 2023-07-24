@@ -21,9 +21,9 @@
 * Visual Studio Code
 
 ## 📱 How to run this app?
-1. Clone this repository: ```git clone https://github.com/raghavpuri2007/JobSearch.git```
-2. Navigate to the project directory: ```cd JobSearch```
-3. Install dependencies: ```npm install```
+1. Clone this repository: `git clone https://github.com/raghavpuri2007/JobSearch.git`
+2. Navigate to the project directory: `cd JobSearch`
+3. Install dependencies: `npm install`
 4. Set up environment variable: create a `.env` file in the root directory
 5. Content of .env: ``RAPID_API_KEY=XXX``
 6. To setup API go to [Rapid API Website](https://rapidapi.com/hub) and create an account
