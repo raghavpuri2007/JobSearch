@@ -12,7 +12,14 @@
 * Filter by Job Length
 * Job Details Screen listing qualifcations, responsibilities, and about-the-job description
 * Apply for Job
- 
+
+## ⚙️ Technologies
+* React Native
+* React
+* RapidAPI
+* Expo Go
+* Visual Studio Code
+
 ## 📱 How to run this app?
 1. Clone this repository: `git clone https://github.com/raghavpuri2007/JobSearch.git`
 2. Navigate to the project directory: cd JobSearch
@@ -24,12 +31,5 @@
 8. Finally, you can run this app with `npm start`
 
 ### 📄 More Info on [How To Run Expo Apps](https://www.reactnative.dev/docs/environment-setup)
-
-## ⚙️ Technologies
-* React Native
-* React
-* RapidAPI
-* Expo Go
-* Visual Studio Code
 
 ### 📝 Published on Expo: [Expo Preview](https://expo.dev/@raghav2007/JobSearch?serviceType=classic&distribution=expo-go)
